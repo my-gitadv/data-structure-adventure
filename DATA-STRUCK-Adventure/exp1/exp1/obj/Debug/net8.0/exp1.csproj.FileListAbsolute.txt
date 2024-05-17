@@ -1,0 +1,14 @@
+C:\Users\piampong.p\Desktop\DATA-STRUCK-Adventure\exp1\exp1\bin\Debug\net8.0\exp1.exe
+C:\Users\piampong.p\Desktop\DATA-STRUCK-Adventure\exp1\exp1\bin\Debug\net8.0\exp1.deps.json
+C:\Users\piampong.p\Desktop\DATA-STRUCK-Adventure\exp1\exp1\bin\Debug\net8.0\exp1.runtimeconfig.json
+C:\Users\piampong.p\Desktop\DATA-STRUCK-Adventure\exp1\exp1\bin\Debug\net8.0\exp1.dll
+C:\Users\piampong.p\Desktop\DATA-STRUCK-Adventure\exp1\exp1\bin\Debug\net8.0\exp1.pdb
+C:\Users\piampong.p\Desktop\DATA-STRUCK-Adventure\exp1\exp1\obj\Debug\net8.0\exp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\piampong.p\Desktop\DATA-STRUCK-Adventure\exp1\exp1\obj\Debug\net8.0\exp1.AssemblyInfoInputs.cache
+C:\Users\piampong.p\Desktop\DATA-STRUCK-Adventure\exp1\exp1\obj\Debug\net8.0\exp1.AssemblyInfo.cs
+C:\Users\piampong.p\Desktop\DATA-STRUCK-Adventure\exp1\exp1\obj\Debug\net8.0\exp1.csproj.CoreCompileInputs.cache
+C:\Users\piampong.p\Desktop\DATA-STRUCK-Adventure\exp1\exp1\obj\Debug\net8.0\exp1.dll
+C:\Users\piampong.p\Desktop\DATA-STRUCK-Adventure\exp1\exp1\obj\Debug\net8.0\refint\exp1.dll
+C:\Users\piampong.p\Desktop\DATA-STRUCK-Adventure\exp1\exp1\obj\Debug\net8.0\exp1.pdb
+C:\Users\piampong.p\Desktop\DATA-STRUCK-Adventure\exp1\exp1\obj\Debug\net8.0\exp1.genruntimeconfig.cache
+C:\Users\piampong.p\Desktop\DATA-STRUCK-Adventure\exp1\exp1\obj\Debug\net8.0\ref\exp1.dll
