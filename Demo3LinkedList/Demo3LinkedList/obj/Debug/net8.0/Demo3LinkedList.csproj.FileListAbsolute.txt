@@ -1,0 +1,14 @@
+C:\Users\piampong.p\Desktop\DATA-STRUCK-Adventure\Demo3LinkedList\Demo3LinkedList\bin\Debug\net8.0\Demo3LinkedList.exe
+C:\Users\piampong.p\Desktop\DATA-STRUCK-Adventure\Demo3LinkedList\Demo3LinkedList\bin\Debug\net8.0\Demo3LinkedList.deps.json
+C:\Users\piampong.p\Desktop\DATA-STRUCK-Adventure\Demo3LinkedList\Demo3LinkedList\bin\Debug\net8.0\Demo3LinkedList.runtimeconfig.json
+C:\Users\piampong.p\Desktop\DATA-STRUCK-Adventure\Demo3LinkedList\Demo3LinkedList\bin\Debug\net8.0\Demo3LinkedList.dll
+C:\Users\piampong.p\Desktop\DATA-STRUCK-Adventure\Demo3LinkedList\Demo3LinkedList\bin\Debug\net8.0\Demo3LinkedList.pdb
+C:\Users\piampong.p\Desktop\DATA-STRUCK-Adventure\Demo3LinkedList\Demo3LinkedList\obj\Debug\net8.0\Demo3LinkedList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\piampong.p\Desktop\DATA-STRUCK-Adventure\Demo3LinkedList\Demo3LinkedList\obj\Debug\net8.0\Demo3LinkedList.AssemblyInfoInputs.cache
+C:\Users\piampong.p\Desktop\DATA-STRUCK-Adventure\Demo3LinkedList\Demo3LinkedList\obj\Debug\net8.0\Demo3LinkedList.AssemblyInfo.cs
+C:\Users\piampong.p\Desktop\DATA-STRUCK-Adventure\Demo3LinkedList\Demo3LinkedList\obj\Debug\net8.0\Demo3LinkedList.csproj.CoreCompileInputs.cache
+C:\Users\piampong.p\Desktop\DATA-STRUCK-Adventure\Demo3LinkedList\Demo3LinkedList\obj\Debug\net8.0\Demo3LinkedList.dll
+C:\Users\piampong.p\Desktop\DATA-STRUCK-Adventure\Demo3LinkedList\Demo3LinkedList\obj\Debug\net8.0\refint\Demo3LinkedList.dll
+C:\Users\piampong.p\Desktop\DATA-STRUCK-Adventure\Demo3LinkedList\Demo3LinkedList\obj\Debug\net8.0\Demo3LinkedList.pdb
+C:\Users\piampong.p\Desktop\DATA-STRUCK-Adventure\Demo3LinkedList\Demo3LinkedList\obj\Debug\net8.0\Demo3LinkedList.genruntimeconfig.cache
+C:\Users\piampong.p\Desktop\DATA-STRUCK-Adventure\Demo3LinkedList\Demo3LinkedList\obj\Debug\net8.0\ref\Demo3LinkedList.dll
