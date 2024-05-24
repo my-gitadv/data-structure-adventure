@@ -1,0 +1,4 @@
+C:\Users\piampong.p\Desktop\DATA-STRUCK-Adventure\Demo3LinkedListGPA\Demo3LinkedListGPA\obj\Debug\net8.0\Demo3LinkedListGPA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\piampong.p\Desktop\DATA-STRUCK-Adventure\Demo3LinkedListGPA\Demo3LinkedListGPA\obj\Debug\net8.0\Demo3LinkedListGPA.AssemblyInfoInputs.cache
+C:\Users\piampong.p\Desktop\DATA-STRUCK-Adventure\Demo3LinkedListGPA\Demo3LinkedListGPA\obj\Debug\net8.0\Demo3LinkedListGPA.AssemblyInfo.cs
+C:\Users\piampong.p\Desktop\DATA-STRUCK-Adventure\Demo3LinkedListGPA\Demo3LinkedListGPA\obj\Debug\net8.0\Demo3LinkedListGPA.csproj.CoreCompileInputs.cache
