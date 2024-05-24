@@ -1,0 +1,14 @@
+C:\Users\piampong.p\Desktop\DATA-STRUCK-Adventure\Demo3ArrayGPA\Demo3ArrayGPA\obj\Debug\net8.0\Demo3ArrayGPA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\piampong.p\Desktop\DATA-STRUCK-Adventure\Demo3ArrayGPA\Demo3ArrayGPA\obj\Debug\net8.0\Demo3ArrayGPA.AssemblyInfoInputs.cache
+C:\Users\piampong.p\Desktop\DATA-STRUCK-Adventure\Demo3ArrayGPA\Demo3ArrayGPA\obj\Debug\net8.0\Demo3ArrayGPA.AssemblyInfo.cs
+C:\Users\piampong.p\Desktop\DATA-STRUCK-Adventure\Demo3ArrayGPA\Demo3ArrayGPA\obj\Debug\net8.0\Demo3ArrayGPA.csproj.CoreCompileInputs.cache
+C:\Users\piampong.p\Desktop\DATA-STRUCK-Adventure\Demo3ArrayGPA\Demo3ArrayGPA\bin\Debug\net8.0\Demo3ArrayGPA.exe
+C:\Users\piampong.p\Desktop\DATA-STRUCK-Adventure\Demo3ArrayGPA\Demo3ArrayGPA\bin\Debug\net8.0\Demo3ArrayGPA.deps.json
+C:\Users\piampong.p\Desktop\DATA-STRUCK-Adventure\Demo3ArrayGPA\Demo3ArrayGPA\bin\Debug\net8.0\Demo3ArrayGPA.runtimeconfig.json
+C:\Users\piampong.p\Desktop\DATA-STRUCK-Adventure\Demo3ArrayGPA\Demo3ArrayGPA\bin\Debug\net8.0\Demo3ArrayGPA.dll
+C:\Users\piampong.p\Desktop\DATA-STRUCK-Adventure\Demo3ArrayGPA\Demo3ArrayGPA\bin\Debug\net8.0\Demo3ArrayGPA.pdb
+C:\Users\piampong.p\Desktop\DATA-STRUCK-Adventure\Demo3ArrayGPA\Demo3ArrayGPA\obj\Debug\net8.0\Demo3ArrayGPA.dll
+C:\Users\piampong.p\Desktop\DATA-STRUCK-Adventure\Demo3ArrayGPA\Demo3ArrayGPA\obj\Debug\net8.0\refint\Demo3ArrayGPA.dll
+C:\Users\piampong.p\Desktop\DATA-STRUCK-Adventure\Demo3ArrayGPA\Demo3ArrayGPA\obj\Debug\net8.0\Demo3ArrayGPA.pdb
+C:\Users\piampong.p\Desktop\DATA-STRUCK-Adventure\Demo3ArrayGPA\Demo3ArrayGPA\obj\Debug\net8.0\Demo3ArrayGPA.genruntimeconfig.cache
+C:\Users\piampong.p\Desktop\DATA-STRUCK-Adventure\Demo3ArrayGPA\Demo3ArrayGPA\obj\Debug\net8.0\ref\Demo3ArrayGPA.dll
