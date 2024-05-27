@@ -8,23 +8,19 @@ public class DoublyLinkedList
     
     public DoublyLinkedList(String name)
     {
-        // Do something
         this.listName = name;
         head = null;
-        tail = null;
-        
+        tail = null; 
     }
 
     public void popBack()
     {
         if (isEmpty())
         {
-            // Do something
             Console.WriteLine("ERROR");
         }
         else
         {
-            // Do something
             if (head == tail)
             {
                 head = null;
@@ -42,12 +38,10 @@ public class DoublyLinkedList
     {
         if (isEmpty())
         {
-            // Do something
             Console.WriteLine("ERROR");
         }
         else
         {
-            // Do something
             if(head == tail)
             {
                 head = null;
@@ -64,13 +58,11 @@ public class DoublyLinkedList
     {
         if (isEmpty())
         {
-            // Fix this
             Console.WriteLine("ERROR");
             return new Node("Empty List!");
         }
         else
         {
-            // Fix this
             return head;
         }
     }
@@ -79,13 +71,11 @@ public class DoublyLinkedList
     {
         if (isEmpty())
         {
-            // Fix this
             Console.WriteLine("ERROR");
             return new Node("Empty List");
         }
         else
         {
-            // Fix this
             return tail;
         }
     }
@@ -94,14 +84,12 @@ public class DoublyLinkedList
     {
         if (isEmpty())
         {
-            // Do something
             head = node;
             tail = node;
 
         }
         else
         {
-            // Do something
             head.previous = node;
             node.next = head;
             head = node;           
@@ -113,13 +101,11 @@ public class DoublyLinkedList
     {
         if (isEmpty())
         {
-            // Do something
             head = node;
             tail = node;
         }
         else
         {
-            // Do something
             tail.next = node;
             node.previous = tail;
             tail = node;
@@ -131,13 +117,20 @@ public class DoublyLinkedList
     {
         if (isEmpty())
         {
-            // Fix this
-            return new Node();
+            return new Node("Empty List!");
         }
         else
         {
-            // Fix this
-            return new Node();
+            Node current = new Node();
+            current = head;
+
+            while(current != null){
+                if (current.student_id == id){
+                    return current;
+                }
+                current = current.next;
+            }
+            return new Node("Student Not Found!");
         }
     }
 
@@ -145,13 +138,33 @@ public class DoublyLinkedList
     {
         if (isEmpty())
         {
-            // Fix this
-            return new Node();
+            Console.WriteLine("ERROR");
+            return new Node("Empty List!");
         }
         else
         {
-            // Fix this
-            return new Node();
+            Node current = new Node();
+            current = head;
+
+            while (current != null){
+                if (current.student_id == id){
+                    if(current.previous == null) {
+                        head = head.next;
+                        head.previous = null;
+                        return current;
+                    }else if(current.next == null){
+                        tail = tail.previous;
+                        tail.next = null;
+                        return current;
+                    }else{
+                        (current.previous).next = current.next;
+                        current.next = current.previous;
+                        return current;
+                    }
+                }
+                current = current.next;
+            }
+            return new Node("Student Not Found!");
         }
     }
 
@@ -191,7 +204,7 @@ public class DoublyLinkedList
 
     public bool isEmpty()
     {
-        // Fix this
+        
         if (head == null)
         {
             return true;
@@ -205,7 +218,7 @@ public class DoublyLinkedList
 
     public void merge(DoublyLinkedList list)
     {
-        // Do something
+        
         tail.next = list.head;
         list.head.previous = tail;
         tail = list.tail;
@@ -213,7 +226,6 @@ public class DoublyLinkedList
 
     public void printStructure()
     {
-        // Fix this
        Node current = head;
         Console.Write(listName + ": head <->");
         while(current != null)
@@ -252,7 +264,7 @@ public class DoublyLinkedList
             
             while (current != null)
             {
-                if (current.gpa > top.gpa)
+                if (current.gpa >= top.gpa)
                 {
                     top = current;
                 }

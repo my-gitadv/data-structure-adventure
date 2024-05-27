@@ -1,31 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\piampong.p\\Desktop\\DATA-STRUCK-Adventure\\lab3\\lab3\\lab3.csproj": {}
+    "/Users/ernesto/Desktop/Programming/data-structure-adventure/DATA-STRUCK-Adventure/lab3/lab3/lab3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\piampong.p\\Desktop\\DATA-STRUCK-Adventure\\lab3\\lab3\\lab3.csproj": {
+    "/Users/ernesto/Desktop/Programming/data-structure-adventure/DATA-STRUCK-Adventure/lab3/lab3/lab3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\piampong.p\\Desktop\\DATA-STRUCK-Adventure\\lab3\\lab3\\lab3.csproj",
+        "projectUniqueName": "/Users/ernesto/Desktop/Programming/data-structure-adventure/DATA-STRUCK-Adventure/lab3/lab3/lab3.csproj",
         "projectName": "lab3",
-        "projectPath": "C:\\Users\\piampong.p\\Desktop\\DATA-STRUCK-Adventure\\lab3\\lab3\\lab3.csproj",
-        "packagesPath": "C:\\Users\\piampong.p\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\piampong.p\\Desktop\\DATA-STRUCK-Adventure\\lab3\\lab3\\obj\\",
+        "projectPath": "/Users/ernesto/Desktop/Programming/data-structure-adventure/DATA-STRUCK-Adventure/lab3/lab3/lab3.csproj",
+        "packagesPath": "/Users/ernesto/.nuget/packages/",
+        "outputPath": "/Users/ernesto/Desktop/Programming/data-structure-adventure/DATA-STRUCK-Adventure/lab3/lab3/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\piampong.p\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/ernesto/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -64,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.300/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
