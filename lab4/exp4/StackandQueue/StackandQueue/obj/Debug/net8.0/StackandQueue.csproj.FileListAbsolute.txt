@@ -1,0 +1,14 @@
+C:\Users\piampong.p\Desktop\DATA-STRUCK-Adventure\lab4\exp4\StackandQueue\StackandQueue\bin\Debug\net8.0\StackandQueue.exe
+C:\Users\piampong.p\Desktop\DATA-STRUCK-Adventure\lab4\exp4\StackandQueue\StackandQueue\bin\Debug\net8.0\StackandQueue.deps.json
+C:\Users\piampong.p\Desktop\DATA-STRUCK-Adventure\lab4\exp4\StackandQueue\StackandQueue\bin\Debug\net8.0\StackandQueue.runtimeconfig.json
+C:\Users\piampong.p\Desktop\DATA-STRUCK-Adventure\lab4\exp4\StackandQueue\StackandQueue\bin\Debug\net8.0\StackandQueue.dll
+C:\Users\piampong.p\Desktop\DATA-STRUCK-Adventure\lab4\exp4\StackandQueue\StackandQueue\bin\Debug\net8.0\StackandQueue.pdb
+C:\Users\piampong.p\Desktop\DATA-STRUCK-Adventure\lab4\exp4\StackandQueue\StackandQueue\obj\Debug\net8.0\StackandQueue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\piampong.p\Desktop\DATA-STRUCK-Adventure\lab4\exp4\StackandQueue\StackandQueue\obj\Debug\net8.0\StackandQueue.AssemblyInfoInputs.cache
+C:\Users\piampong.p\Desktop\DATA-STRUCK-Adventure\lab4\exp4\StackandQueue\StackandQueue\obj\Debug\net8.0\StackandQueue.AssemblyInfo.cs
+C:\Users\piampong.p\Desktop\DATA-STRUCK-Adventure\lab4\exp4\StackandQueue\StackandQueue\obj\Debug\net8.0\StackandQueue.csproj.CoreCompileInputs.cache
+C:\Users\piampong.p\Desktop\DATA-STRUCK-Adventure\lab4\exp4\StackandQueue\StackandQueue\obj\Debug\net8.0\StackandQueue.dll
+C:\Users\piampong.p\Desktop\DATA-STRUCK-Adventure\lab4\exp4\StackandQueue\StackandQueue\obj\Debug\net8.0\refint\StackandQueue.dll
+C:\Users\piampong.p\Desktop\DATA-STRUCK-Adventure\lab4\exp4\StackandQueue\StackandQueue\obj\Debug\net8.0\StackandQueue.pdb
+C:\Users\piampong.p\Desktop\DATA-STRUCK-Adventure\lab4\exp4\StackandQueue\StackandQueue\obj\Debug\net8.0\StackandQueue.genruntimeconfig.cache
+C:\Users\piampong.p\Desktop\DATA-STRUCK-Adventure\lab4\exp4\StackandQueue\StackandQueue\obj\Debug\net8.0\ref\StackandQueue.dll
