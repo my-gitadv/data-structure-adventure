@@ -5,39 +5,39 @@ public class Program
     static void Main(string[] args)
     {
 
-        /*
-        Node nodeA = new Node();
-        Node nodeB = new Node();
+        
+        //Node nodeA = new Node();
+        //Node nodeB = new Node();
 
-        nodeA.price = 30; nodeA.timestamp = 1; nodeA.isMinHeap = true;
-        nodeB.price = 20; nodeB.timestamp = 2; nodeB.isMinHeap = true;
-        Console.WriteLine("nodeA.compare(nodeB) = " + nodeA.compare(nodeB));
-        Console.WriteLine("nodeB.compare(nodeA) = " + nodeB.compare(nodeA));
-        */
+        //nodeA.price = 30; nodeA.timestamp = 1; nodeA.isMinHeap = true;
+        //nodeB.price = 20; nodeB.timestamp = 2; nodeB.isMinHeap = true;
+        //Console.WriteLine("nodeA.compare(nodeB) = " + nodeA.compare(nodeB));
+        //Console.WriteLine("nodeB.compare(nodeA) = " + nodeB.compare(nodeA));
+        
 
-        /*
-        Node nodeA = new Node();
-        Node nodeB = new Node();
+        
+        //Node nodeA = new Node();
+        //Node nodeB = new Node();
 
-        nodeA.price = 30; nodeA.timestamp = 1; nodeA.isMinHeap = false;
-        nodeB.price = 20; nodeB.timestamp = 2; nodeB.isMinHeap = false;
+        //nodeA.price = 30; nodeA.timestamp = 1; nodeA.isMinHeap = false;
+        //nodeB.price = 20; nodeB.timestamp = 2; nodeB.isMinHeap = false;
 
-        Console.WriteLine("nodeA.compare(nodeB) = " + nodeA.compare(nodeB));
-        Console.WriteLine("nodeB.compare(nodeA) = " + nodeB.compare(nodeA));
-        */
+        //Console.WriteLine("nodeA.compare(nodeB) = " + nodeA.compare(nodeB));
+        //Console.WriteLine("nodeB.compare(nodeA) = " + nodeB.compare(nodeA));
+        
 
-        /*
-        Node nodeA = new Node();
-        Node nodeB = new Node();
+        
+        //Node nodeA = new Node();
+        //Node nodeB = new Node();
 
-        nodeA.price = 100; nodeA.timestamp = 1; nodeA.isMinHeap = true;
-        nodeB.price = 100; nodeB.timestamp = 2; nodeB.isMinHeap = true;
+        //nodeA.price = 100; nodeA.timestamp = 1; nodeA.isMinHeap = true;
+        //nodeB.price = 100; nodeB.timestamp = 2; nodeB.isMinHeap = true;
 
-        Console.WriteLine("nodeA.compare(nodeB) = " + nodeA.compare(nodeB));
-        Console.WriteLine("nodeB.compare(nodeA) = " + nodeB.compare(nodeA));
-        */
+        //Console.WriteLine("nodeA.compare(nodeB) = " + nodeA.compare(nodeB));
+        //Console.WriteLine("nodeB.compare(nodeA) = " + nodeB.compare(nodeA));
+        
 
-        /*
+        
         StockMarket market = new StockMarket(10, 10); // 10 investos, 10 stocks
         // Add 10 investors and the initial balance
         market.addInvestor("Matthew", 10000); // ID=0
@@ -62,7 +62,7 @@ public class Program
         market.addStock("DTAC", 35.50);
         market.addStock("LH", 8.75);
 
-        // market.giveMeSomeShares();
+        //market.giveMeSomeShares();
         market.loadAssets(); // load saved assets
         market.showStockOwnership();
 
@@ -71,6 +71,7 @@ public class Program
 
 
         // To uncomment below, you need to implement Heap
+
 
         market.submitSellOrder("Luke", "SCB", 5, 200);
         market.submitSellOrder("Jude", "SCB", 10, 180);
@@ -158,6 +159,6 @@ public class Program
         market.quote("PTT");
 
         market.portfolio("Mark");
-        */
+
     }
 }

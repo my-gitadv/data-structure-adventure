@@ -13,14 +13,17 @@ public class Heap
     public Heap(bool isMinHeap, int cap)
     {
         // Initialize the heap here
-        // Don't forget that we will build the binary heap using...
+        // Don't forget that we will build the binary heap using...ARRAY
         // ... the concept of "Complete binary tree based on the array implementation"
         // ... The 0 index will not be used, The index starts from 1 (remember?)
+        this.size = 0;
+        this.capacity = cap;
+        this.arr = new Node[cap];
 
     }
     public Node top()
     {
-        return null; // FIX THIS
+        return arr[1];
     }
 
     public void push(Node node)
@@ -37,6 +40,17 @@ public class Heap
         //      * Repeat the process until reaching the root or there is no swap (Pls use while loop)
         // 3. Increase the heap size
 
+        
+
+        arr[size + 1] = node;
+        int k = size + 1;
+        size++;
+        while (k > 1 && arr[k].compare(arr[k/2]))
+        {
+            swap(k, k / 2);
+            k = k / 2;
+        }
+
     }
 
     public Node pop()
@@ -50,9 +64,44 @@ public class Heap
         //      * Check priority of the current node with both children
         //      * Swap the current node with the lower priority child
         //      * Repeat the process until the node has no child or there is no swap (Pls use while loop)
-        
-        return null; // You may have to fix this line
 
+        int i = 1;
+        Node temp = arr[i];
+
+        arr[i] = arr[size];
+        arr[size] = null;
+        size--;
+
+        while (i < size)
+        {
+            if (arr[i *2 + 1] == null || arr[i * 2].compare(arr[i*2 + 1]))
+            {
+                if (arr[i * 2] != null && !arr[i].compare(arr[i * 2]))
+                {
+                    swap(i,i*2);
+                    i = i * 2;
+                }
+                else
+                {
+                    break;
+                }
+            }
+            else
+            {
+                if (arr[i * 2 + 1] != null && !arr[i].compare(arr[i * 2 + 1]))
+                {
+                    swap(i, i * 2 + 1);
+                    i = i * 2 + 1;
+                }
+                else
+                {
+                    break;
+                }
+            }
+        }
+        //if (size >= 0)
+            return temp;
+        //else return null;
     }
 
     public void swap(int index1, int index2)

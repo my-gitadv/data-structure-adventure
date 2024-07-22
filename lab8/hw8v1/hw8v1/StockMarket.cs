@@ -244,7 +244,7 @@ public class StockMarket
                     bestBuyer = buyerQueue[stockID].pop(); // all shares will be transfered
                     bestSeller = sellerQueue[stockID].top(); // only some shares will be transfered
                     transferAmount = bestBuyer.amount;
-                    bestSeller.amount -= transferAmount; // transfer only the matched amount
+                    bestSeller.amount -= transferAmount; // transfer only the matched amount               
                 }
                 else if (bestBuyer.amount > bestSeller.amount)
                 {
@@ -259,6 +259,8 @@ public class StockMarket
                     bestBuyer = buyerQueue[stockID].pop(); // all shares will be transfered
                     transferAmount = bestBuyer.amount;
                 }
+                //Console.WriteLine("best buy amount [" + bestBuyer.investorID + "] = " + bestBuyer.amount);
+
 
                 Console.WriteLine("-----------------------------------------------------------------------------------------");
                 // transfer the stocks from the seller to the buyer

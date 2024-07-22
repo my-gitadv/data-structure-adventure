@@ -21,17 +21,39 @@ public class Node
 
     public bool compare(Node rightNode)
     // This function will return true if Priority(thisNode) > Priority(rightNode)
-    // minHeap: the lower the price, the higher the priority
-    // maxHeap: the lower the price, the lower the priority
+    // minHeap: the lower the price, the higher the priority // selling
+    // maxHeap: the lower the price, the lower the priority  // buying
     // If same price, the smaller the timestamp is, the higher the priority will be
     {
         if (this.price == rightNode.price)
-            return false; // FIX THIS
-        else
-            if (isMinHeap)
-                return false; // FIX THIS
+        {
+            if (this.timestamp < rightNode.timestamp)
+            {
+                return true;
+            }
             else
-                return false; // FIX THIS
+            {
+                return false;
+            }
+        }
+        else
+        {
+            if (isMinHeap)
+            {
+                if (this.price < rightNode.price)
+                    return true;
+                else
+                    return false;
+            }
+
+            else
+            {
+                if (this.price < rightNode.price)
+                    return false;
+                else
+                    return true;
+            }
+        }
     }
 
     public Node() { } // Dummy constructor, no need to edit
