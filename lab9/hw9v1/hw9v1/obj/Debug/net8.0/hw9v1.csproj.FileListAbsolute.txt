@@ -1,0 +1,14 @@
+C:\Users\piampong.p\Desktop\DATA-STRUCK-Adventure\lab9\hw9v1\hw9v1\bin\Debug\net8.0\hw9v1.exe
+C:\Users\piampong.p\Desktop\DATA-STRUCK-Adventure\lab9\hw9v1\hw9v1\bin\Debug\net8.0\hw9v1.deps.json
+C:\Users\piampong.p\Desktop\DATA-STRUCK-Adventure\lab9\hw9v1\hw9v1\bin\Debug\net8.0\hw9v1.runtimeconfig.json
+C:\Users\piampong.p\Desktop\DATA-STRUCK-Adventure\lab9\hw9v1\hw9v1\bin\Debug\net8.0\hw9v1.dll
+C:\Users\piampong.p\Desktop\DATA-STRUCK-Adventure\lab9\hw9v1\hw9v1\bin\Debug\net8.0\hw9v1.pdb
+C:\Users\piampong.p\Desktop\DATA-STRUCK-Adventure\lab9\hw9v1\hw9v1\obj\Debug\net8.0\hw9v1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\piampong.p\Desktop\DATA-STRUCK-Adventure\lab9\hw9v1\hw9v1\obj\Debug\net8.0\hw9v1.AssemblyInfoInputs.cache
+C:\Users\piampong.p\Desktop\DATA-STRUCK-Adventure\lab9\hw9v1\hw9v1\obj\Debug\net8.0\hw9v1.AssemblyInfo.cs
+C:\Users\piampong.p\Desktop\DATA-STRUCK-Adventure\lab9\hw9v1\hw9v1\obj\Debug\net8.0\hw9v1.csproj.CoreCompileInputs.cache
+C:\Users\piampong.p\Desktop\DATA-STRUCK-Adventure\lab9\hw9v1\hw9v1\obj\Debug\net8.0\hw9v1.dll
+C:\Users\piampong.p\Desktop\DATA-STRUCK-Adventure\lab9\hw9v1\hw9v1\obj\Debug\net8.0\refint\hw9v1.dll
+C:\Users\piampong.p\Desktop\DATA-STRUCK-Adventure\lab9\hw9v1\hw9v1\obj\Debug\net8.0\hw9v1.pdb
+C:\Users\piampong.p\Desktop\DATA-STRUCK-Adventure\lab9\hw9v1\hw9v1\obj\Debug\net8.0\hw9v1.genruntimeconfig.cache
+C:\Users\piampong.p\Desktop\DATA-STRUCK-Adventure\lab9\hw9v1\hw9v1\obj\Debug\net8.0\ref\hw9v1.dll
