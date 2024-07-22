@@ -1,0 +1,14 @@
+C:\Users\piampong.p\Desktop\DATA-STRUCK-Adventure\lab6\exc\BST\BST\bin\Debug\net8.0\BST.exe
+C:\Users\piampong.p\Desktop\DATA-STRUCK-Adventure\lab6\exc\BST\BST\bin\Debug\net8.0\BST.deps.json
+C:\Users\piampong.p\Desktop\DATA-STRUCK-Adventure\lab6\exc\BST\BST\bin\Debug\net8.0\BST.runtimeconfig.json
+C:\Users\piampong.p\Desktop\DATA-STRUCK-Adventure\lab6\exc\BST\BST\bin\Debug\net8.0\BST.dll
+C:\Users\piampong.p\Desktop\DATA-STRUCK-Adventure\lab6\exc\BST\BST\bin\Debug\net8.0\BST.pdb
+C:\Users\piampong.p\Desktop\DATA-STRUCK-Adventure\lab6\exc\BST\BST\obj\Debug\net8.0\BST.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\piampong.p\Desktop\DATA-STRUCK-Adventure\lab6\exc\BST\BST\obj\Debug\net8.0\BST.AssemblyInfoInputs.cache
+C:\Users\piampong.p\Desktop\DATA-STRUCK-Adventure\lab6\exc\BST\BST\obj\Debug\net8.0\BST.AssemblyInfo.cs
+C:\Users\piampong.p\Desktop\DATA-STRUCK-Adventure\lab6\exc\BST\BST\obj\Debug\net8.0\BST.csproj.CoreCompileInputs.cache
+C:\Users\piampong.p\Desktop\DATA-STRUCK-Adventure\lab6\exc\BST\BST\obj\Debug\net8.0\BST.dll
+C:\Users\piampong.p\Desktop\DATA-STRUCK-Adventure\lab6\exc\BST\BST\obj\Debug\net8.0\refint\BST.dll
+C:\Users\piampong.p\Desktop\DATA-STRUCK-Adventure\lab6\exc\BST\BST\obj\Debug\net8.0\BST.pdb
+C:\Users\piampong.p\Desktop\DATA-STRUCK-Adventure\lab6\exc\BST\BST\obj\Debug\net8.0\BST.genruntimeconfig.cache
+C:\Users\piampong.p\Desktop\DATA-STRUCK-Adventure\lab6\exc\BST\BST\obj\Debug\net8.0\ref\BST.dll
