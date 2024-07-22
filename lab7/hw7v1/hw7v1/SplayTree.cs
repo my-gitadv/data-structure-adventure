@@ -22,6 +22,8 @@ public class SplayTree : BTreePrinter
     // Case 2-3: x.parent == root (sig from left, zig from right)
     // Case 4-5: x.parent != root (sig from left, zig from right)
     {
+        //Console.WriteLine("Perform zig on Node(" + x.key + ")");
+
         Node y = x.parent;
         if (y == null)
         {
@@ -33,23 +35,28 @@ public class SplayTree : BTreePrinter
             {
                 // Zig from left
 
-
                 y.left = x.right;
+                if (x.right != null){
+                    x.right.parent = y;
+                }
                 x.right = y;
                 y.parent = x;
-                x.parent = null;
-                root = x;
+                
 
 
             }
             else
             {
                 y.right = x.left;
+                if (x.left != null){
+                    x.left.parent = y;
+                }
                 x.left = y;
                 y.parent = x;
-                x.parent = null;
-                root = x;
+
             }
+            x.parent = null;
+            root = x;
 
         }
         else
@@ -60,6 +67,9 @@ public class SplayTree : BTreePrinter
                 Node w = y.parent;
 
                 y.left = x.right;
+                if (x.right != null){
+                    x.right.parent = y;
+                }
                 x.right = y;
                 y.parent = x;
 
@@ -80,6 +90,9 @@ public class SplayTree : BTreePrinter
                 Node w = y.parent;
 
                 y.right = x.left;
+                if (x.left != null){
+                    x.left.parent = y;
+                }
                 x.left = y;
                 y.parent = x;
 
@@ -103,6 +116,8 @@ public class SplayTree : BTreePrinter
     // zigzig() function will move up node x two levels along the outer path
     // Pls call zig() to perform zigzig()
     {
+        
+
         zig(x.parent);
         zig(x);
 
@@ -121,16 +136,13 @@ public class SplayTree : BTreePrinter
     public void splay(Node x)
     // This function will iteratively splay (move up) node x all the way to the root
     {
-        //while (x != null && x != root)
-
             while (x != null && x != root)
         {
             Node y = x.parent;
             if (y == root)
             {
                  zig(x);
-
-                break;
+                 break;
             }else
             {
                 if (y.key < y.parent.key) 
@@ -138,12 +150,12 @@ public class SplayTree : BTreePrinter
                     if (x.key < y.key)
                     {
                         zigzig(x);
-                        x = x.parent;
+                        //x = x.parent;
                     }
                     else
                     {
                         zigzag(x);
-                        x = x.parent;
+                        //x = x.parent;
                     }
                 }
                 else
@@ -151,12 +163,12 @@ public class SplayTree : BTreePrinter
                     if(x.key > y.key)
                     {
                         zigzig(x);
-                        x = x.parent;
+                        //x = x.parent;
                     }
                     else
                     {
                         zigzag(x);
-                        x = x.parent;
+                        //x = x.parent;
                     }
                 }
             }
@@ -225,7 +237,7 @@ public class SplayTree : BTreePrinter
         {
             if (search_key == current.key)
             {
-                break;
+                return current;
             }
             else if (search_key < current.key)
             {
@@ -236,7 +248,7 @@ public class SplayTree : BTreePrinter
                 current = current.right;
             }
         }
-        return current;
+        return null;
     }
    
     public Node findMin()

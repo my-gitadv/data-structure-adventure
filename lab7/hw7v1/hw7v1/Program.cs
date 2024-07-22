@@ -179,25 +179,25 @@ public class Program
         //tree.printTree();
 
 
-        
+
         //BSTree2 tree = new BSTree2();
         //int[] keys = { 5, 3, 1, 2, 4, 7, 6, 9, 8 };
         //for (int i = 0; i < keys.Length; i++)
         //    tree.insert(keys[i]);
         //Node x = tree.find(2);
         //Console.WriteLine(x.key);
-        
 
-        
+
+
         //BSTree2 tree = new BSTree2();
         //int[] keys = { 5, 3, 1, 2, 4, 7, 6, 9, 8 };
         //for (int i = 0; i < keys.Length; i++)
         //    tree.insert(keys[i]);
         //Node x = tree.find(10);
         //Console.WriteLine(x);
-        
 
-        
+
+
         //BSTree2 tree = new BSTree2();
         //int[] keys = { 5, 3, 1, 2, 4, 7, 6, 9, 8 };
         //for (int i = 0; i < keys.Length; i++)
@@ -205,9 +205,9 @@ public class Program
         //Node x = tree.findMin();
         //Node y = tree.findMax();
         //Console.WriteLine("Min = " + x.key + ", Max = " + y.key);
-        
 
-        
+
+
         //SplayTree tree = new SplayTree();
         //for (int i = 0; i < 4; i++)
         //    tree.insert(i + 1); // with splay()
@@ -234,15 +234,16 @@ public class Program
         //tree.printTree();
 
 
-        
-        SplayTree tree = new SplayTree();
-        int[] keyList = { 5, 7, 2, 3, 1, 6, 8 };
-        for (int i = 0; i < keyList.Length; i++)
-        {
-            tree.insert(keyList[i]);    // with splay()
-            tree.printTree();
-        }
-            
+
+        //SplayTree tree = new SplayTree();
+        //int[] keyList = { 5, 7, 2, 3, 1, 6, 8 };
+        //for (int i = 0; i < keyList.Length; i++)
+        //{
+        //    tree.insert(keyList[i]);    // with splay()
+        //    //tree.printTree();
+        //}
+        //tree.printTree();
+
 
         //Node node1, node2, node3, node5, node7;
         ////This find(key, false) means do not splay the node
@@ -279,9 +280,9 @@ public class Program
         //Console.WriteLine("ZigZig Node (7)");
         //tree.zigzig(node7);
         //tree.printTree();
-        
 
-        /*
+
+        
         Stopwatch stopwatch = new Stopwatch();
         Random rnd = new Random();
 
@@ -314,7 +315,7 @@ public class Program
         Console.WriteLine("Time for finding " + N + " different objects in SplayTree = " + stopwatch.ElapsedMilliseconds + " msec");
 
         Console.WriteLine("Which one is faster: BSTree or SplayTree?");
-        */
+        
     }
 
     public static BSTree generateTree1()
