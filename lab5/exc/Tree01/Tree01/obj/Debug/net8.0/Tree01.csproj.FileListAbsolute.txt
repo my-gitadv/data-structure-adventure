@@ -1,0 +1,14 @@
+C:\Users\piampong.p\Desktop\DATA-STRUCK-Adventure\lab5\exc\Tree01\Tree01\bin\Debug\net8.0\Tree01.exe
+C:\Users\piampong.p\Desktop\DATA-STRUCK-Adventure\lab5\exc\Tree01\Tree01\bin\Debug\net8.0\Tree01.deps.json
+C:\Users\piampong.p\Desktop\DATA-STRUCK-Adventure\lab5\exc\Tree01\Tree01\bin\Debug\net8.0\Tree01.runtimeconfig.json
+C:\Users\piampong.p\Desktop\DATA-STRUCK-Adventure\lab5\exc\Tree01\Tree01\bin\Debug\net8.0\Tree01.dll
+C:\Users\piampong.p\Desktop\DATA-STRUCK-Adventure\lab5\exc\Tree01\Tree01\bin\Debug\net8.0\Tree01.pdb
+C:\Users\piampong.p\Desktop\DATA-STRUCK-Adventure\lab5\exc\Tree01\Tree01\obj\Debug\net8.0\Tree01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\piampong.p\Desktop\DATA-STRUCK-Adventure\lab5\exc\Tree01\Tree01\obj\Debug\net8.0\Tree01.AssemblyInfoInputs.cache
+C:\Users\piampong.p\Desktop\DATA-STRUCK-Adventure\lab5\exc\Tree01\Tree01\obj\Debug\net8.0\Tree01.AssemblyInfo.cs
+C:\Users\piampong.p\Desktop\DATA-STRUCK-Adventure\lab5\exc\Tree01\Tree01\obj\Debug\net8.0\Tree01.csproj.CoreCompileInputs.cache
+C:\Users\piampong.p\Desktop\DATA-STRUCK-Adventure\lab5\exc\Tree01\Tree01\obj\Debug\net8.0\Tree01.dll
+C:\Users\piampong.p\Desktop\DATA-STRUCK-Adventure\lab5\exc\Tree01\Tree01\obj\Debug\net8.0\refint\Tree01.dll
+C:\Users\piampong.p\Desktop\DATA-STRUCK-Adventure\lab5\exc\Tree01\Tree01\obj\Debug\net8.0\Tree01.pdb
+C:\Users\piampong.p\Desktop\DATA-STRUCK-Adventure\lab5\exc\Tree01\Tree01\obj\Debug\net8.0\Tree01.genruntimeconfig.cache
+C:\Users\piampong.p\Desktop\DATA-STRUCK-Adventure\lab5\exc\Tree01\Tree01\obj\Debug\net8.0\ref\Tree01.dll
