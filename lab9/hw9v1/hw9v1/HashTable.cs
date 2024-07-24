@@ -18,6 +18,7 @@ public class HashTable
         this.capacity = cap;
         this.p = p;
         this.x = x;
+        this.size = 0;
     }
 
     public void addString(String s)
@@ -27,6 +28,7 @@ public class HashTable
 
         int bin = getIndex(s);
         arr[bin] = s;
+        size++;
 
 
     }

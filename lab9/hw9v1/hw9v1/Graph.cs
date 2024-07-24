@@ -108,10 +108,19 @@ public class Graph
 
         // Stamp the current cc number to this vertex (ccNum)
         v.ccNum = this.cc;
+
         // Print vertex
         Console.Write(v.strKey + "/" + v.ccNum + " -> ");
 
         // Get the list of all vertices that are connected to Vertex v
+        //LinkedList<int> list = adjacencyList[u];
+        foreach (int v_con in adjacencyList[v.intKey])
+        {
+            if (!vertexList[v_con].visited)
+            {
+                Explore(vertexList[v_con]);
+            }
+        }
 
         // Traverse through the list and check if anyone are already visited or not
         // If no, then explore the vertex
@@ -121,17 +130,22 @@ public class Graph
     public void DFS()
     {
 
-        // Set cc (connected component number) to 1
+        //Set cc(connected component number) to 1
         foreach (Vertex v in vertexList)
         {
-            v.visited = false;
+            if(v != null)
+            {
+                v.visited = false;
+            }
         }
         this.cc = 1;
 
         foreach (Vertex v in vertexList){
-            if (!v.visited)
+            if (v != null && !v.visited)
             {
                 Explore(v);
+                this.cc++;
+
             }
         }
 
